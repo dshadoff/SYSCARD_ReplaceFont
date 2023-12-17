@@ -14,11 +14,11 @@ I have included screenshots of an early screen on the American release of Exile 
 give a clear indication of whether this patch is for you.  Personally, I found any game using the built-in 12x12
 and 16x16 fonts for English text to be painful after only a short period.
 
-Before:
+## Before:
 
 ![Before](images/Exile-before.png)
 
-After:
+## After:
 
 ![After](images/Exile-after.png)
 
