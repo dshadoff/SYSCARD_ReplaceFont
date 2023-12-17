@@ -14,9 +14,11 @@ I have included screenshots of an early screen on the American release of Exile 
 give a clear indication of whether this patch is for you.  Personally, I found any game using the built-in 12x12
 and 16x16 fonts for English text to be painful after only a short period.
 
-![Before](images/Exile (U)-before.png)
+Before:
+![Before](images/Exile-before.png)
 
-![After](images/Exile (U)-after.png)
+After:
+![After](images/Exile-after.png)
 
 
 I am including the patch as an IPS file for "Version 3.0" Super System Cards; this IPS expects a ROM with
