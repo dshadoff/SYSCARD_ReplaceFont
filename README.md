@@ -15,9 +15,11 @@ give a clear indication of whether this patch is for you.  Personally, I found a
 and 16x16 fonts for English text to be painful after only a short period.
 
 Before:
+
 ![Before](images/Exile-before.png)
 
 After:
+
 ![After](images/Exile-after.png)
 
 
